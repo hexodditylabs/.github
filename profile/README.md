@@ -8,7 +8,7 @@
 
 ### Products
 
-| | |
+| Product | What it does |
 |---|---|
 | **[AnchorHub](https://hexodditylabs.dev/anchorhub)** | A CRM that tracks every lead back to the ad that brought it in, and reports the sale back to the ad platform. |
 | **[loftOKR](https://hexodditylabs.dev/loftOKR)** | OKR management for fast-moving teams: tasks, goals and time in one place. |
