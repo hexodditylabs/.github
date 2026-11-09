@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://hexodditylabs.dev"><img src="banner.svg" alt="Hexoddity Labs" width="100%"></a>
-</p>
 
 ## Hexoddity Labs
 
